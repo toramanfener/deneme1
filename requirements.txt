@@ -19,3 +19,4 @@ typing_extensions==4.1.1
 tzdata==2022.1
 tzlocal==4.1
 zipp==3.7.0
+sqlalchemy
