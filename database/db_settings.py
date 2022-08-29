@@ -1,0 +1,6 @@
+DB_HOST = 'sql8.freemysqlhosting.net'
+DB_PORT = '3306'
+DB_NAME = 'sql8515901'
+DB_USER = 'sql8515901'
+DB_PASSWORD = '6kmii92URt'
+DB_ENCODING = 'utf8mb4'
