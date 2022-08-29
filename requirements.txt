@@ -11,7 +11,7 @@ pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
 scramp==1.4.1
 six==1.16.0
-SQLAlchemy==1.4.32
+sqlalchemy
 tornado==6.1
 typing_extensions==4.1.1
 tzdata==2022.1
